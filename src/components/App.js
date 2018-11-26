@@ -6,7 +6,7 @@ class App extends Component {
   render() {   
     return (
       <div className="App">
-        <h1>ezyVet - React+Redux test - <a href="" target="_NEW">Github</a></h1>
+        <h1>ezyVet - React+Redux test - <a href="https://github.com/charles-benedito/ezyVet-test-react-redux" target="_NEW">Github</a></h1>
         <Cart />
         <hr />
         <Products />
